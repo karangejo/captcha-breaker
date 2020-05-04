@@ -7,7 +7,7 @@ captcha breaking with python, tesseract and imagemagick
 virtualen .env
 source .env/bin/activate
 pip install -r requirements.txt
-``
+```
 
 ## usage
 
