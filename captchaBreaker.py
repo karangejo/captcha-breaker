@@ -1,5 +1,5 @@
-# can be somewhat successfull breaking the captcha for this site:
-# http://service.etax.nat.gov.tw/etwmain/web/ETW113W1_2
+# can be somewhat successfull breaking the captcha depending on your imagemagick skillz
+
 
 import pytesseract
 import sys
